@@ -34,6 +34,4 @@
   #### 썸네일로 클릭하면 링크
 
   ##### 이미지를 클릭하면 사이트로 이동합니다.
-  ![studyplan App]()
-
-  배포된 주소는 [studyplan App]()
+[![studyplan App](public/image.png)](https://react-studyplan-app-alpha.vercel.app/)
